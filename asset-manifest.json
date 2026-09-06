@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/YenozPortofolio/static/css/main.4a5ed9d2.css",
-    "main.js": "/YenozPortofolio/static/js/main.ac195061.js",
+    "main.js": "/YenozPortofolio/static/js/main.ed40417a.js",
     "index.html": "/YenozPortofolio/index.html",
     "main.4a5ed9d2.css.map": "/YenozPortofolio/static/css/main.4a5ed9d2.css.map",
-    "main.ac195061.js.map": "/YenozPortofolio/static/js/main.ac195061.js.map"
+    "main.ed40417a.js.map": "/YenozPortofolio/static/js/main.ed40417a.js.map"
   },
   "entrypoints": [
     "static/css/main.4a5ed9d2.css",
-    "static/js/main.ac195061.js"
+    "static/js/main.ed40417a.js"
   ]
 }
