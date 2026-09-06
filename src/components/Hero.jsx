@@ -7,8 +7,8 @@ const Hero = () => {
       <div>
         {/* TAMBAHAN FOTO */}
         <img 
-          src="/YenozPortofolio/image/download.jpg" 
-          alt="Profile" 
+          src="/image/download.jpg"
+          alt="Profile"
           style={{
             width: '200px',
             height: '200px',
@@ -17,7 +17,7 @@ const Hero = () => {
             objectFit: 'cover',
             border: '3px solid #60a5fa'
           }}
-        />
+          />
         {/* AKHIR TAMBAHAN */}
         <h1>Hi, I'm Sir Yenoz 👋</h1>
         <p>Welcome to my portofolio</p>
