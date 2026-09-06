@@ -5,6 +5,20 @@ const Hero = () => {
   return (
     <section className="hero" id="home">
       <div>
+        {/* TAMBAHAN FOTO */}
+        <img 
+          src="/YenozPortofolio/image/download.jpg" 
+          alt="Profile" 
+          style={{
+            width: '200px',
+            height: '200px',
+            borderRadius: '8px',
+            marginBottom: '2rem',
+            objectFit: 'cover',
+            border: '3px solid #60a5fa'
+          }}
+        />
+        {/* AKHIR TAMBAHAN */}
         <h1>Hi, I'm Sir Yenoz 👋</h1>
         <p>Welcome to my portofolio</p>
         <p style={{ fontSize: '1rem', color: '#94a3b8', marginBottom: '2rem' }}>
