@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YenozPortofolio/static/css/main.4a5ed9d2.css",
+    "main.js": "/YenozPortofolio/static/js/main.7378087f.js",
+    "index.html": "/YenozPortofolio/index.html",
+    "main.4a5ed9d2.css.map": "/YenozPortofolio/static/css/main.4a5ed9d2.css.map",
+    "main.7378087f.js.map": "/YenozPortofolio/static/js/main.7378087f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a5ed9d2.css",
+    "static/js/main.7378087f.js"
+  ]
+}
