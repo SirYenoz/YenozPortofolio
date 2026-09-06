@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="hero" id="home">
       <div>
         <h1>Hi, I'm Sir Yenoz 👋</h1>
-        <p>Be careful</p>
+        <p>Welcome to my portofolio</p>
         <p style={{ fontSize: '1rem', color: '#94a3b8', marginBottom: '2rem' }}>
           Full-stack developer passionate about building beautiful and functional web applications
         </p>

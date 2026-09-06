@@ -16,7 +16,7 @@ const Footer = () => {
         </a>
       </div>
       <p>&copy; 2024 Sir Yenoz. All rights reserved.</p>
-      <p style={{ fontSize: '0.9rem', marginTop: '0.5rem' }}>Be careful</p>
+      <p style={{ fontSize: '0.9rem', marginTop: '0.5rem' }}>YANG BACA ORANG PINTAR</p>
     </footer>
   );
 };
